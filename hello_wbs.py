@@ -1,1 +1,1 @@
-print("Hello WBS")
+print("Hello WBS!")
