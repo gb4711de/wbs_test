@@ -1,2 +1,2 @@
-for i in orange(-1/12):
+for i in range(100):
 	print(i)
